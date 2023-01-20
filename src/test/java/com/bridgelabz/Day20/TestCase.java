@@ -24,4 +24,8 @@ public class TestCase extends UserRegistration{
     public void EmailTest(){
         Assert.assertEquals(true, Email("shubhamag937@gmail.com") );
     }
+    @Test
+    public void PhoneTest(){
+        Assert.assertEquals(true, Phone("91+7983160612") );
+    }
 }
