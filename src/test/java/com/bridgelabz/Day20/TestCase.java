@@ -17,5 +17,11 @@ public class TestCase extends UserRegistration{
     @Test
     public void LastNameTest(){
         Assert.assertEquals(true, Last("Agrawal") );
+
+    }
+
+    @Test
+    public void EmailTest(){
+        Assert.assertEquals(true, Email("shubhamag937@gmail.com") );
     }
 }

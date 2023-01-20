@@ -39,7 +39,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="JUnit.TestCase.LastNameTest">
+  <component name="RunManager" selected="JUnit.TestCase.EmailTest">
     <configuration name="TestCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UserRegistration" />
       <extension name="coverage">
@@ -51,6 +51,22 @@
       <option name="PACKAGE_NAME" value="com.bridgelabz.Day20" />
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.Day20.TestCase" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCase.EmailTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UserRegistration" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bridgelabz.Day20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.bridgelabz.Day20" />
+      <option name="MAIN_CLASS_NAME" value="com.bridgelabz.Day20.TestCase" />
+      <option name="METHOD_NAME" value="EmailTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -73,6 +89,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestCase.EmailTest" />
         <item itemvalue="JUnit.TestCase.LastNameTest" />
         <item itemvalue="JUnit.TestCase" />
       </list>
