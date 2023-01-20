@@ -31,4 +31,6 @@ public class UserRegistration {
                 boolean b5 = Pattern.compile("^[a-zA-Z0-9]{8,}$").matcher(str5).matches();
                 return b5;
         }
+
+        }
 }
